@@ -11,7 +11,7 @@ const Laurels = () => {
         <div className='flex flex-col-reverse items-center space-x-[150px] mt-[40px] lg:mt-[20px] lg:flex-row'>
           <div>
             <p className='font-san font-bold text-[19px] leading-[29.9px]'>Awards & Recognition</p>
-            <img className='w-[35px]' src="/public/Vector2.png" alt="spoon" />
+            <img className='w-[35px]' src="/Vector2.png" alt="spoon" />
             <h3 className='font-semibold leading-[83.2px] text-[50px] text-lightBrown'>Our Laurels</h3>
             <div className='max-h-[300px] max-w-[500px] p-5 grid grid-cols-2 items-center gap-4'>
               <div className='flex space-x-3 items-center'>
