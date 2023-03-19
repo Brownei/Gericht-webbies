@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: #fff;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant Upright', serif;
+}
+
+p {
+  font-size: 13px;
+  color: #AAAAAA;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
