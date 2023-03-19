@@ -45,8 +45,8 @@ const Laurels = () => {
             </div>
           </div>
           <div className='relative'>
-            <img className='w-full h-[300px] object-cover border-lightBrown lg:h-[600px]' src="/public/mgg-vitchakorn-J5ZivsKiu9c-unsplash 2.png" alt="Teaser-food" />
-            <img className='absolute top-[100px] left-3 lg:top-[230px] lg:-left-[50px]' src="/public/G-white.png" alt="" />
+            <img className='w-full h-[300px] object-cover border-lightBrown lg:h-[600px]' src="/mgg-vitchakorn-J5ZivsKiu9c-unsplash 2.png" alt="Teaser-food" />
+            <img className='absolute top-[100px] left-3 lg:top-[230px] lg:-left-[50px]' src="/G-white.png" alt="" />
           </div>
         </div>
         <div className='absolute top-3 left-2'>
