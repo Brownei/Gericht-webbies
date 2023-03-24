@@ -24,7 +24,10 @@ module.exports = {
         lightBrown: '#DCCA87',
         darkerBlack: '#040404',
         lightBlack : '#272727',
-      } 
+      },
+      gridTemplateColumns: {
+        fluid: "repeat(auto-fit, minmax(15rem, 1fr))"
+      }
     },
   },
   plugins: [],
